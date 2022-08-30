@@ -1,0 +1,10 @@
+#background{
+    text-align: center;
+    background-image: linear-gradient(orange,lightgreen,blue);
+    border-style: dotted;
+}
+canvas {
+    border:1px solid black;
+    background-color: cornsilk;
+    position: fixed;
+}
